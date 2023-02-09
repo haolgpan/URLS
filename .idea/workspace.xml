@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="245018b4-ee89-4fec-9d4e-b9a6ee1cfbf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/URLS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Survey/MainSurvey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/urls/MainURLS.java" afterDir="false" />
-    </list>
+    <list default="true" id="245018b4-ee89-4fec-9d4e-b9a6ee1cfbf9" name="Changes" comment="1st commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675871034119</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1675901562314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675901562314</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +62,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
   </component>
 </project>
